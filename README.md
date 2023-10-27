@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoringMarsh
-- 👀 I’m interested in ...
+- 👀 I’m interested in discovering delicious dishes in TJU!
 - 🔭 I’m currently major in Software Engineering in Tongji University.
 - 🌱 I’m currently sleeping in my domitory.
 - 💬 Ask me about C/C++, C#, Python, Java, Vue, and I will say I don't know.
